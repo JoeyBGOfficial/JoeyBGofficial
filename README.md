@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyBGofficial
 - 👀 I’m majored and interested in Radar Signal processing/AI for radar. I’m currently learning Through-the-Wall radar target detection.
-- 🌱 My hobbies and social works are indeeeeeeeeeed wide including EDM Music Producer, Chief Leader of Xu Teli Colledge's Volleyball Team, Member of Chinese Poetry Association， Deputy Director of the Beijing Institute of Technology.
+- 🌱 My hobbies and social works are indeeeeeeeeeed wide including EDM Music Producer, Chief Leader of Xu Teli Colledge's Volleyball Team, Member of Chinese Poetry Association, Deputy Director of BIT's Radar Club.
 - 💞️ I’m looking to collaborate on Through-the-Wall radar researches.
 - 📫 How to reach me: 
 - Radar Club of Beijing Institute of Technology, 100081
