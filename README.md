@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @JoeyBGofficial from China. And my real name is Weicheng Gao.
-- 👀 I’m majored and interested in Radar Signal processing/AI for radar. I’m currently learning Through-the-Wall radar target detection.
-- 🌱 My hobbies and social works are indeeeeeeeeeed wide including EDM Music Producer, Chief Leader of Xu Teli Colledge's Volleyball Team, Member of Chinese Poetry Association, Deputy Director of BIT's Radar Club.
-- 💞️ I’m looking to collaborate on Through-the-Wall radar researches.
+- 👋 Hi, I’m @JoeyBGOfficial from China. And my real name is Weicheng Gao.
+- 👀 I’m majored and interested in Radar Signal Processing / AI for radar. I’m currently dedicated in the field of Through-the-Wall radar human activity recognition.
+- 🌱 My hobbies and social works are indeeeeeeeeeed wide including electronic dance music (EDM) producer, majoring in the genre of Future Bounce. During my undergraduate years, I used to be the chief leader of Xu Teli Colledge's volleyball team, member of Chinese poetry association, deputy director of BIT's radar club. Now I am a Ph.D. student in the field of radar signal processing and a member of the China Association for Science and Technology (CAST) Program of Excellence as well as the Hump Pilot Program of BIT. I've chosen these primary and secondary businesses out of pure love, so I'm looking forward to making more like-minded friends~
+- 💞️ Besides, I’m looking to collaborate on Through-the-Wall radar researches!
 - 📫 How to reach me: 
 - Radar Club of Beijing Institute of Technology, 100081
 - Email: JoeyBG@126.com
 - Cellphone: +86 17801204600
+- Wechat: JoeyBG_Official
+- QQ: 1416367031
 - Appreciated for all the advice!
 
 <!---
